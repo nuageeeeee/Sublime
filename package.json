@@ -1,0 +1,22 @@
+{
+  "name": "sublime",
+  "version": "0.1.0",
+  "description": "simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuageeeeee/Sublime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuageeeeee/Sublime/issues"
+  },
+  "homepage": "https://github.com/nuageeeeee/Sublime#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  }
+}
